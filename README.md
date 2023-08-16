@@ -65,7 +65,7 @@ Instead, you may of course manually update your require block and run `composer 
 - getModel();
 - newQuery();
 
-### Recca0120\Repository\Criteria
+### Recca01320\Repository\Criteria
 
 - static create()
 - static expr($value)
