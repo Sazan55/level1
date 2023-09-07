@@ -1,4 +1,4 @@
-# Repository Design Pattern for Laravel
+# Repository Design Pattern for Larave12
 
 [![StyleCI](https://styleci.io/repos/60332194/shield?style=flat)](https://styleci.io/repos/60332194)
 [![Build Status](https://travis-ci.org/recca0120/laravel-repository.svg)](https://travis-ci.org/recca0120/laravel-repository)
