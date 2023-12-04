@@ -29,7 +29,7 @@ Instead, you may of course manually update your require block and run `composer 
 }
 ```
 
-## Methods
+## Methods is non
 
 ### Recca0120\Repository\EloquentRepository
 
