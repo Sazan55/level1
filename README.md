@@ -11,7 +11,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/recca0120/laravel-repository/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/recca0120/laravel-repository/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/recca0120/laravel-repository/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/recca0120/laravel-repository/?branch=master)
 sa gfg5
-## Install and worksa 56
+## Install and worksa
 
 To get the latest version of Laravel Exceptions, simply require the project using [Composer](https://getcomposer.org):
 
